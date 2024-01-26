@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701182772 source:c:\users\admin\desktop\programni ezici\videa\preparationforexam\main.cpp
+	<iostream>
+	<iostream>
+	<string>
+
+1702421612 source:c:\users\admin\desktop\programni ezici\exam\preparationforexam\main.cpp
+	<iostream>
+	<string>
+
