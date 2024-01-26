@@ -41,12 +41,5 @@ int main()
         cout<<videoTitle<<endl;
     }
 
-    //Vseki pyt kogato iskame da syzdadem obekt ot tozi klas
-    //shte trqbva da kopirame gorniq kod i tova naistina se
-    //sblyskva s  principa narechen 'ne se povtarqyte',
-    //koeto oznachava ne povtarqyte koda si, ako naistina
-    //ne trqbva da go povtarqte.
-    //Na pomosht v takyv sluchai ni idvat konstruktorite
-
     return 0;
 }
